@@ -17,6 +17,9 @@ The **LuxRewardNFT** contract is an **ERC721A-based NFT contract** designed for 
   Each signature is created using **ECDSA** and includes the necessary parameters (such as the user's address, quantity, and price) to ensure authenticity. Before 
   processing a minting request, the contract verifies the **signature** to confirm that it was issued by the trusted moderator, preventing unauthorized NFT creation. 
   This approach ensures that only legitimate transactions, approved by the backend, can successfully mint NFTs while maintaining a seamless and secure user 
-  experience.  
-
+  experience.
+  
+## Role:
+- **Lead Blockchain Developer**: Led the blockchain development of the project.
+- **Client Communication & Requirement Gathering**: Managed client communication and gathered project requirements.
  --- 

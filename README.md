@@ -19,7 +19,7 @@ The **LuxRewardNFT** contract is an **ERC721A-based NFT contract** designed for 
   This approach ensures that only legitimate transactions, approved by the backend, can successfully mint NFTs while maintaining a seamless and secure user 
   experience.
   
-## Role:
+## Role
 - **Lead Blockchain Developer**: Led the blockchain development of the project.
 - **Client Communication & Requirement Gathering**: Managed client communication and gathered project requirements.
  --- 
